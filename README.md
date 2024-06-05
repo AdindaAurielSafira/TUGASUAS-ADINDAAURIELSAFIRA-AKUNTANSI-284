@@ -1,4 +1,4 @@
-# UAS-Pengkodean-D
+# Tugas-UAS-Pengkodean-D
 
 **SOAL**
 
@@ -61,7 +61,9 @@ Berdasarkan 'analisis_statistik_penjualan.csv'.
 [3] Jika ditujukan untuk analisis yang lebih mendalam, lebih banyak data atau kategori produk mungkin diperlukan untuk mengkonfirmasi hasil ini.
 
 **Keterbatasan**
+
 [1] Dengan hanya tiga kategori produk, regresi linier sederhana ini hanya menunjukkan tren dasar yang mungkin tidak cukup untuk membuat kesimpulan yang kuat.
+
 [2] Interpretasi ini juga bergantung pada representasi numerik dari kategori produk, yang mungkin tidak mencerminkan variasi nyata dalam data produk.
 
 
