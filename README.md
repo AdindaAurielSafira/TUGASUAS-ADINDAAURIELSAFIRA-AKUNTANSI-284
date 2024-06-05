@@ -14,9 +14,9 @@
 
 [6] Simpan hasil analisis statistik tersebut ke dalam file CSV baru.
 
-![image](https://github.com/AdindaAurielSafira/TUGASUAS-ADINDAAURIELSAFIRA-AKUNTANSI-284/blob/main/Visualisasi-Total-Penjualan-per-Kategori-Produk.jpeg)
-
 **ANALISIS TREN**
+
+![image](https://github.com/AdindaAurielSafira/TUGASUAS-ADINDAAURIELSAFIRA-AKUNTANSI-284/blob/main/Visualisasi-Total-Penjualan-per-Kategori-Produk.jpeg)
 
 _Kain Jeans (Biru)_
 
@@ -38,9 +38,9 @@ Kategori ini menunjukkan penjualan yang sangat fluktuatif. Terdapat beberapa pun
 
 [3] Kain Jeans cenderung lebih stabil, dengan kenaikan dan penurunan yang lebih moderat, menandakan penjualan yang lebih konsisten dibandingkan dua kategori lainnya.
 
-![image](https://github.com/AdindaAurielSafira/TUGASUAS-ADINDAAURIELSAFIRA-AKUNTANSI-284/blob/main/Visualisasi-Analisis-Data.jpeg)
-
 **ANALISIS DATA REGRESI SEDERHANA**
+
+![image](https://github.com/AdindaAurielSafira/TUGASUAS-ADINDAAURIELSAFIRA-AKUNTANSI-284/blob/main/Visualisasi-Analisis-Data.jpeg)
 
 [1] Kain Jeans memiliki rata-rata penjualan bulanan yang lebih rendah dibandingkan Kain Wol tetapi lebih tinggi dari Kain Sutra.
 
