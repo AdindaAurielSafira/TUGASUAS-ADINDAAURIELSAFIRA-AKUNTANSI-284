@@ -16,6 +16,8 @@
 
 **ANALISIS TREN**
 
+Berdasarkan 'Penjualan.csv'.
+
 ![image](https://github.com/AdindaAurielSafira/TUGASUAS-ADINDAAURIELSAFIRA-AKUNTANSI-284/blob/main/Visualisasi-Total-Penjualan-per-Kategori-Produk.jpeg)
 
 _Kain Jeans (Biru)_
@@ -39,6 +41,8 @@ Kategori ini menunjukkan penjualan yang sangat fluktuatif. Terdapat beberapa pun
 [3] Kain Jeans cenderung lebih stabil, dengan kenaikan dan penurunan yang lebih moderat, menandakan penjualan yang lebih konsisten dibandingkan dua kategori lainnya.
 
 **ANALISIS DATA REGRESI SEDERHANA**
+
+Berdasarkan 'analisis_data.csv'.
 
 ![image](https://github.com/AdindaAurielSafira/TUGASUAS-ADINDAAURIELSAFIRA-AKUNTANSI-284/blob/main/Visualisasi-Analisis-Data.jpeg)
 
