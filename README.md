@@ -42,7 +42,7 @@ Kategori ini menunjukkan penjualan yang sangat fluktuatif. Terdapat beberapa pun
 
 **ANALISIS DATA REGRESI SEDERHANA**
 
-Berdasarkan 'analisis_data.csv'.
+Berdasarkan 'analisis_statistik_penjualan.csv'.
 
 ![image](https://github.com/AdindaAurielSafira/TUGASUAS-ADINDAAURIELSAFIRA-AKUNTANSI-284/blob/main/Visualisasi-Analisis-Data.jpeg)
 
